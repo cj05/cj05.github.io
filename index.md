@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-go to the [JS tester](https://cj05.github.com/JStest/
+go to the [JS tester](https://cj05.github.io/JStest/)
